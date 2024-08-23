@@ -1,3 +1,8 @@
+/*
+Author:- Kunal Bairwa.
+Topic:- Arithmetic operator.
+Created on :- 23/08/24.
+*/
 #include<iostream>
 using namespace std;
 
