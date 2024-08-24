@@ -1,6 +1,6 @@
 /*
 Author:- Kunal Bairwa.
-Topic:- Function.
+Topic:- Structure.
 Created on :- 24/08/24.
 */
 #include<iostream>

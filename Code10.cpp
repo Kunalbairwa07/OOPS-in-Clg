@@ -1,3 +1,8 @@
+/*
+Author:- Kunal Bairwa.
+Topic:- Function.
+Created on :- 24/08/24.
+*/
 #include<iostream>
 using namespace std;
 
